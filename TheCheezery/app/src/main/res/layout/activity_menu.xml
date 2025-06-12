@@ -43,7 +43,7 @@
             android:layout_columnWeight="1"
             android:textSize="@dimen/menu_buttons_text"
             android:paddingVertical="@dimen/menu_buttons_padding_v"
-            android:id="@+id/button_colds_drinks"
+            android:id="@+id/button_cold_drinks"
             />
 
 
